@@ -1,3 +1,3 @@
 def reverse_each_word(str)
   str.spit(",")
-  str. each do reverse
+  str. each do reverse_each_word
